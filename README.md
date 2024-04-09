@@ -110,3 +110,13 @@ Style issues. We will grade program hygiene as well as correctness. Did you prov
 structure to the program using functions? Did you minimize the scope of variables to the
 smallest necessary? Did you use meaningful identifiers? Did you provide comments for your
 functions?
+
+
+## Solution:
+
+1. Upload the Code.py to Google Colab (or Jupyter Notebook) 
+2. Upload ai.txt to the contents
+3. run the code
+
+Expected Output: 
+![image](https://github.com/sohaibzafar701/Feature-Extration-From-Text/assets/77731957/fb855907-9809-424d-a414-46fe71ddc14d)
